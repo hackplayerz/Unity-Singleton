@@ -1,0 +1,15 @@
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\bin\Release\net6.0\UnitySingleton.deps.json
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\bin\Release\net6.0\UnitySingleton.dll
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\bin\Release\net6.0\UnitySingleton.pdb
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\bin\Release\net6.0\UnityEngine.dll
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\bin\Release\net6.0\UnityEngine.xml
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\obj\Release\net6.0\UnitySingleton.csproj.AssemblyReference.cache
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\obj\Release\net6.0\UnitySingleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\obj\Release\net6.0\UnitySingleton.AssemblyInfoInputs.cache
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\obj\Release\net6.0\UnitySingleton.AssemblyInfo.cs
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\obj\Release\net6.0\UnitySingleton.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\obj\Release\net6.0\UnitySingleton.csproj.CopyComplete
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\obj\Release\net6.0\UnitySingleton.dll
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\obj\Release\net6.0\refint\UnitySingleton.dll
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\obj\Release\net6.0\UnitySingleton.pdb
+D:\WorkSpace\Library\UnitySingleton\UnitySingleton\obj\Release\net6.0\ref\UnitySingleton.dll
