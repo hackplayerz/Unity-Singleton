@@ -3,7 +3,7 @@
 
 2022-12-05 Ver.
 
-싱글톤 클래스를 dll화하여 LazyInstance 적용
+싱글톤 클래스를 dll화하고 LazyInstance 적용
 
 <h2>사용법</h2>
 namespace : UnitySingleton <br>
