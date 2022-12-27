@@ -13,12 +13,12 @@
 
                 if (instance == null)
                 {
-                    GameObject obj = new GameObject("GameManagers");
+                    GameObject obj = new GameObject("GameManager");
                     instance = obj.AddComponent(typeof(T)) as T;
 
-                    DontDestroyOnLoad(obj);
                 }
 
+                DontDestroyOnLoad(instance);
                 return instance;
             });
 
